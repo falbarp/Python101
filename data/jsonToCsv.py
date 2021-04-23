@@ -1,3 +1,5 @@
+#Converts a JSON file to CSV
+
 import pandas as pd
 from tkinter import Tk    
 from tkinter.filedialog import askopenfilename
